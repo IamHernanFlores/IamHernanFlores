@@ -10,7 +10,7 @@ Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
  
 ## Encontrame en 🌎: 
 - Proyectos de diseño <a href="https://www.behance.net/IamHernanFlores"> Behance</a> 🎨
-- Actualizacion profecional <a href="https://www.linkedin.com/in/hern%C3%A1nfloresdeveloper/">LinkedIn</a> 💼
+- Actualizacion Profesional <a href="https://www.linkedin.com/in/hern%C3%A1nfloresdeveloper/">LinkedIn</a> 💼
 
 
 
