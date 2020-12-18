@@ -2,7 +2,7 @@
 # Hola, Soy Hernán 👋🏼
 
 <img  width="100%" src="https://miro.medium.com/max/4200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" alt="developer - Js" />
-Desarrollador con perfil Front-End & Digital Marketing Strategist 🚀 Ubicacion Argentina Buenos Aires, Con experiencia en maquetado y creacion de paginas web !
+Desarrollador con perfil Front-End & Digital Marketing Strategist 🚀 Ubicación Argentina Buenos Aires, Con experiencia en maquetado y creacion de paginas web !
 Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 
 ## Tecnologias ⚡: 
