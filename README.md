@@ -5,7 +5,7 @@ Desarrollador con perfil Front-End & Digital Marketing Strategist 🚀 Ubicació
 Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 
 ## Tecnologias ⚡: 
-- Desarrollo Front-End **HTML5, CSS3, JavaScript**
+- Desarrollo Front-End **HTML5, CSS3, JavaScript (junior)**
  
 ## Encontrame en 🌎: 
 - Proyectos de diseño <a href="https://www.behance.net/IamHernanFlores"> Behance</a> 🎨
