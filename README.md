@@ -1,7 +1,7 @@
 
 # Hola, Soy Hernán 👋🏼
 
-Desarrollador Front-End & Digital Marketing Manager 🚀 Ubicación Argentina Buenos Aires, Con experiencia en maquetado y creacion de paginas web !
+Desarrollador Front-End & Digital Marketing Manager 🚀 Ubicación Argentina Buenos Aires, Con conocimientos en maquetado y creacion de paginas web !
 Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 
 ## Tecnologias ⚡: 
