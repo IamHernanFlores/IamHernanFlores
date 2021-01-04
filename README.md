@@ -7,7 +7,7 @@ Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript (junior)**
  
-## Encontrame en 🌎: 
+## Enlaces 🌎: 
 - Pagina / Portfolio <a href="https://bit.ly/2X8pI9u"> Pagina Web</a> 👨🏻‍💻
 - Proyectos de diseño <a href="https://www.behance.net/IamHernanFlores"> Behance</a> 🎨
 
