@@ -5,7 +5,8 @@ Desarrollador Front-End & Digital Marketing Manager 🚀 Ubicación Argentina Bu
 Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 
 ## Tecnologias ⚡: 
-- Desarrollo Front-End **HTML5, CSS3, JavaScript (junior)**
+- Desarrollo Front-End **HTML5, CSS3, JavaScript **
+- Backend Jr
 - **jQuery, Angular, NodeJS**
  
 ## Enlaces 🌎: 
