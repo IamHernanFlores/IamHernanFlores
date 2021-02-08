@@ -8,6 +8,7 @@ Actualmente adquiriendo conocimientos UX/UI :art: & Backend.
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
 - Backend Jr
 - **jQuery, Angular, NodeJS**
+- **Angular, React, Vue**
  
 ## Enlaces 🌎: 
 - Pagina / Portfolio <a href="https://hernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
