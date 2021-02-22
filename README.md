@@ -1,10 +1,10 @@
 
 # Hola, Soy Hernán 👋🏼
 
-  - Desarrollador Front-End, Marketing digital manager y UX/UI Designer jr 🚀 
+  - Front End | UI Developer 🚀 
   - Ubicación Argentina Buenos Aires 🇦🇷
-  - Con conocimientos en maquetacion  y desarrollo web !
-  - Actualmente en formación: UX/UI :art:
+  - Con conocimientos en diseño y desarrollo web.
+  - Actualmente reforzando conocimientos UX/UI :art:
 
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
