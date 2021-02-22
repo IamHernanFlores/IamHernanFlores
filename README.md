@@ -2,8 +2,8 @@
 # Hola, Soy Hernán 👋🏼
 
   - Front End | UI Developer 🚀 
-  - Con conocimientos en diseño y desarrollo web.
-  - Actualmente reforzando conocimientos UX/UI :art:
+  - Conocimientos en diseño y desarrollo web.
+  - Actualmente reforzando UX/UI :art:
 
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
