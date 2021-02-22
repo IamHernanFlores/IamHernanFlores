@@ -2,7 +2,6 @@
 # Hola, Soy Hernán 👋🏼
 
   - Front End | UI Developer 🚀 
-  - Ubicación Argentina Buenos Aires 🇦🇷
   - Con conocimientos en diseño y desarrollo web.
   - Actualmente reforzando conocimientos UX/UI :art:
 
