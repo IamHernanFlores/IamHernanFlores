@@ -8,7 +8,7 @@
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
 - Backend Jr
-- **jQuery, Angular, NodeJS**
+- **jQuery, NodeJS**
 - **Angular, React, Vue** 
  
 ## Enlaces 🌎: 
