@@ -7,9 +7,6 @@
 
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
-- Backend Jr
-- **jQuery, NodeJS**
-- **Angular, React, Vue** 
  
 ## Enlaces 🌎:
 - Pagina / Portfolio(siempre con cambios) <a href="https://hernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
