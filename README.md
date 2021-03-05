@@ -11,7 +11,7 @@
 - **jQuery, NodeJS**
 - **Angular, React, Vue** 
  
-## Enlaces 🌎: 
+## Enlaces 🌎::
 - Pagina / Portfolio(siempre con cambios) <a href="https://hernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
 - Proyectos de diseño(pronto) <a href="https://www.behance.net/IamHernanFlores"> Behance</a> 🎨
 
