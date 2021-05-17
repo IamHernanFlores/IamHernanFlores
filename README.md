@@ -9,10 +9,10 @@
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
  
 ## Enlaces 🌎:
-- Pagina / Portfolio(siempre con cambios) <a href="https://hernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
+- Pagina / Portfolio(siempre con cambios) <a href="https://iamhernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
 - Proyectos de diseño(pronto) <a href="https://www.behance.net/IamHernanFlores"> Behance</a> 🎨
 
-- Actualizacion Profesional <a href="https://www.linkedin.com/in/hern%C3%A1nfloresdeveloper/">LinkedIn</a> 💼
+- Actualizacion Profesional <a href="https://www.linkedin.com/in/hern%C3%A1nfloresdesigner/">LinkedIn</a> 💼
 
 
 
