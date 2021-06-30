@@ -3,7 +3,7 @@
 
   - Web Dev/ Designer & UX/UI 🚀 
   - Conocimientos en diseño y desarrollo web.
-  - Actualmente en UX/UI Avanzado :art:
+  
 
 ## Tecnologias ⚡: 
 - Desarrollo Front-End **HTML5, CSS3, JavaScript**
