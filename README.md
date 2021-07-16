@@ -1,8 +1,6 @@
 
 # Hola, Soy Hernán 👋🏼
 
-  - UI Developer & UX/UI Designer 🚀 
-  - Conocimientos en diseño y desarrollo web.
   <img src="https://trello-attachments.s3.amazonaws.com/5efbca76d0a4785c49e88ddb/60a1c3fab9eb0649c769103e/c051f6ff6e71b1025f5032e60d4cce3f/Dise%C3%B1o_sin_t%C3%ADtulo.png" alt="banner UI Developer & UX/UI Designer ">
   
 
