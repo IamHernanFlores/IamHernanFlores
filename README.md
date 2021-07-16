@@ -5,7 +5,8 @@
   
 
 ## Tecnologias ⚡: 
-- Desarrollo Front-End **HTML5, CSS3, JavaScript**
+- Desarrollo Front-End:
+- **HTML5, CSS3, JavaScript**
  
 ## Enlaces 🌎:
 - Pagina / Portfolio(siempre con cambios) <a href="https://iamhernanflores.netlify.app/"> Pagina Web </a> 👨🏻‍💻
