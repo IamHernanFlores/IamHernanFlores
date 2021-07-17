@@ -1,7 +1,7 @@
 
 # Hola, Soy Hernán 👋🏼
 
-- UI Developer & UX/UI Designer
+- UX/UI Designer | UI Developer
   
 
 ## Tecnologias ⚡: 
