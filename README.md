@@ -1,8 +1,4 @@
 
-# Hola, Soy Hernán 👋🏼
-
-- UX/UI Designer | UI Developer
-
 
 
 
