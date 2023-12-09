@@ -1,5 +1,5 @@
 # Acerca de mi:
-🔭 Hola! Mi nombre es Hernán, Product Designer UX UI | Interaction & Visual Design | Digital Business Strategy | Web Dev.<br>⚡ Me apasiona todo lo relacionado con la tecnología, diseño y desarrollo. <br>👨🏻‍💻 Crear, implementar elementos visualmente interactivos y funcionales.<br>🤝 Enfoque en la interfaz del producto que vaya acorde con la experiencia del usuario.<br>
+🔭 Hola! Mi nombre es Hernán, Product Designer UX UI | Interaction & Visual Design | Digital Business Strategy | Web Dev.<br>⚡ Me apasiona todo lo relacionado con la tecnología, diseño y desarrollo. <br>👨🏻‍💻 Crear, implementar elementos visualmente interactivos y funcionales.<br>🤝 Enfoque en la interfaz del producto que vaya acorde con la experiencia del usuario.<br> <br>💼 Aspectos importantes en el área de negocio para crear lazos positivos, estratégicos y de valor, <br>
 
 
 ## Socials:
